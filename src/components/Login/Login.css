@@ -1,0 +1,39 @@
+
+.container-login{
+    display: flex;
+}
+.container-login .main-login{
+    display: flex;
+    padding-top: 100px;
+    padding-left: 320px;
+}
+.login-h3{
+    font-size: 40px;
+}
+.log-para{
+    font-size: 30px;
+    color: purple;
+}
+.main-last{
+    align-items: center;
+    justify-content: center;
+}
+.main-last .last-h{
+    align-items: center;
+    justify-content: center;
+    padding-left: 350px;
+    padding-top: 50px;
+    color:blue;
+    font-size: 50px;
+}
+.main-last .last-p{
+    align-items: center;
+    justify-content: center;
+    
+    padding-left: 580px;
+    font-size: 20px;
+    color:black;
+}
+.btn-last-log{
+    padding-left: 700px;
+}

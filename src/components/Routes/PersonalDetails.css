@@ -1,0 +1,26 @@
+.container-details{
+    padding-top: 80px;
+   padding-left: 300px;
+}
+.heading{
+   
+}
+.h2{
+    font-size: 40px;
+}
+.form{
+    padding-left: 350px;
+}
+ul li{
+    padding-top: 20px;
+    list-style: none;
+}
+.placeholder{
+    height: 30px;
+    width: 80px;
+}
+.button-back{
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    padding-top: 50px;
+}
+.logo-img{
+    height: 100px;
+    width: 350px;
+    padding-top: 30px;
+    padding-left: 100px;
+    
+}

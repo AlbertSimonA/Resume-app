@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+
+.container-two{
+    margin: auto;
+    padding-top: 50px;
+    padding-left: 100px;
+    
+}
+.text{
+    font-size: 60px;
+    padding-top: 10px;
+}
+.para{
+    color: purple;
+    font-size: 30px;
+}
+.buttons{
+    padding-left: 80px;
+    color: blue;
+} 
+.img{
+    padding-right: 40px;
+}

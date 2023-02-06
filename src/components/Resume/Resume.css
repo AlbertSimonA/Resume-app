@@ -1,0 +1,20 @@
+.container-resume{
+    margin: auto;
+    padding-top: 75px;
+    padding-left: 200px;
+}
+.resume-img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid blue;
+    padding-left: 100px;
+}
+.resume-datas{
+    display: flex;
+    padding-top: 30px;
+    font-size: 20px;
+    
+}
+.resume-datas-two{
+    padding-left: 210px;
+}
